@@ -1,60 +1,6 @@
-# p5.js Template
-
-This is a README file that can be used to describe and document your assignment.
-
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
-
----
----
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
-
-
-Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+# HW06 Description
+For this assignment I picked the first 3 sentences of the country hit song 29 by Carly Pearce. I made this piece as kind of a consolation price for not being able to afford to see her live in concert a couple of weeks ago.
+  
+I chose the words to show up in a clockwise motion, in a circle, with the number (age) 29 starkly in the middle of the canvas. There were a couple of meanings behind this layout: 1) time — the song sings about Pearce’s expectations for herself at that age and how she felt pressured to have been at a different stage in life, yet her life actually looked so much more different then she expected 2) cake — the circular shape with the age in the middle also felt like a great symbolism for a birthday cake, in which a regular birthday may be full of positive expectations and wishes, this age was a stressful and pressuring one for her.
+  
+The most difficult part was to figure out how to make the words go in a circle. At first I was trying to do it via pi, but I had to switch to degrees for things to make sense to me. Otherwise, it was a lot of trial and error, just seeing what different ways of trying to determine the positioning of each new word would look like. I had to brush up on some long gone high school knowledge of sin and cos to understand the research on potential solutions I could be using. Otherwise, of course, referring to the string tutorials on our class website has been extremely valuable and helpful.
